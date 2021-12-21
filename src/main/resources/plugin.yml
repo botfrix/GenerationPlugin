@@ -1,0 +1,7 @@
+name: GenerationPlugin
+version: '${project.version}'
+main: com.aqulasoft.generationplugin.GenerationPlugin
+api-version: 1.16
+authors: [ botfrix, Blighttownn ]
+description: World generation plugin with zoning
+website: aqulasoft.com
